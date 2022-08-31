@@ -1,3 +1,7 @@
+//Question 1 : First Letter Printer
+//provided with a string and returns a string with the first letter of every word in the string.
+
+
 import java.util.Scanner;
 
 
