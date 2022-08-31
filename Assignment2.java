@@ -1,3 +1,6 @@
+//Question 2: Find Missing Number
+//provided with an array of the size n-1. It contains distinct integers in the range of 1 to n.  and returns the missing number in the array
+
 import java.util.Scanner;
 
 class MissingNumberFinder {
